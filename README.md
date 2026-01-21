@@ -10,7 +10,7 @@ The project emphasizes **exploratory analysis, query logic, and SQL best practic
 ## 🗂️ Data Sources
 The analysis uses two primary tables:
 
-### 1️⃣ CovidDeaths
+### 1️⃣ [CovidDeaths](https://github.com/anand-analytics/Covid-19-Data-Exploration-SQL-/blob/main/Data/CovidDeaths.xlsx)
 Contains:
 - Location
 - Date
