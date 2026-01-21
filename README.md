@@ -19,7 +19,7 @@ Contains:
 - New cases
 - Total deaths
 
-### 2️⃣ CovidVaccinations
+### 2️⃣ [CovidVaccinations](https://github.com/anand-analytics/Covid-19-Data-Exploration-SQL-/blob/main/Data/CovidVaccinations.xlsx)
 Contains:
 - Location
 - Date
